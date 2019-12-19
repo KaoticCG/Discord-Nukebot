@@ -1,2 +1,2 @@
 # Discord-Nukebot
-An easy to use nukebot in discord.py. Make sure you have python installed, or make a python repl in http://repl.it/.
+This bot is currently undergoing maintenence. Please check back later.
